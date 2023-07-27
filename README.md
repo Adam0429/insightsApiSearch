@@ -6,3 +6,6 @@ insightsApiSearch是一个的搜索引擎的系统。它提供了一个页面支
 LiGeFlag项目包含3个部分，第一个是后端进行代码扫描的系统，它将定时扫描出项目代码中的接口、数据库链接等信息，并存入数据库。第二个部分提供Web接口服务，用于提供给前端进行数据展示。第三个部分是前端，用于提供搜索服务及数据展示。
 
 ![image](https://raw.githubusercontent.com/insightsvalue/insightsApiSearch/main/%E6%9E%B6%E6%9E%84.png)
+![image](https://github.com/insightsvalue/insightsApiSearch/blob/main/%E6%88%AA%E5%B1%8F1.png?raw=true)
+![image](https://github.com/insightsvalue/insightsApiSearch/blob/main/%E6%88%AA%E5%B1%8F2.png?raw=true)
+
